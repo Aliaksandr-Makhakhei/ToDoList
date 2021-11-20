@@ -2,7 +2,7 @@
 
 ### Technologies and tools
 * HTML5
-* SCSS
+* TailwindCSS
 * JavaScript
 * Git
 
